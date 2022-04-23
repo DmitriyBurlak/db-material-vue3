@@ -123,7 +123,8 @@ position - String default value: 'top' (top, top-start, top-end, bottom, bottom-
 
 ## Developer
 Dmitriy Burlak
-- [ ] [Page GitHub](https://github.com/DmitriyBurlak)
+- [Example](https://dmitriyburlak.github.io/db-material-vue3/dist/index.html)
+- [Page GitHub](https://github.com/DmitriyBurlak/db-material-vue3)
 
 ## License
 MIT
